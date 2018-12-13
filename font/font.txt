@@ -1,0 +1,22 @@
+font-family: 'PT Serif', serif;
+<i class="fab fa-apple"></i>
+<i class="fab fa-android"></i>
+<i class="fab fa-windows"></i>
+
+
+
+<i class="fab fa-facebook-f"></i>
+<i class="fab fa-twitter"></i>
+<i class="fab fa-google-plus-g"></i>
+<i class="fab fa-pinterest-p"></i>
+
+
+
+
+
+
+<i class="fas fa-mobile-alt"></i>
+<i class="fas fa-lemon"></i>
+<i class="far fa-bookmark"></i>
+<i class="fas fa-code"></i>
+<i class="far fa-envelope"></i>
